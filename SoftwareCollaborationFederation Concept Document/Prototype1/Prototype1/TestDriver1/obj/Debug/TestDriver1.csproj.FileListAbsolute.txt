@@ -1,0 +1,10 @@
+\\hd.ad.syr.edu\01\79421f\Documents\Downloads\Prototype12\Prototype1\TestDriver1\obj\Debug\TestDriver1.csprojResolveAssemblyReference.cache
+\\hd.ad.syr.edu\01\79421f\Documents\Downloads\Prototype12\Prototype1\TestDriver1\bin\Debug\TestDriver1.dll.config
+\\hd.ad.syr.edu\01\79421f\Documents\Downloads\Prototype12\Prototype1\TestDriver1\bin\Debug\TestDriver1.dll
+\\hd.ad.syr.edu\01\79421f\Documents\Downloads\Prototype12\Prototype1\TestDriver1\bin\Debug\TestDriver1.pdb
+\\hd.ad.syr.edu\01\79421f\Documents\Downloads\Prototype12\Prototype1\TestDriver1\bin\Debug\ITest.dll
+\\hd.ad.syr.edu\01\79421f\Documents\Downloads\Prototype12\Prototype1\TestDriver1\bin\Debug\TestCode1.dll
+\\hd.ad.syr.edu\01\79421f\Documents\Downloads\Prototype12\Prototype1\TestDriver1\bin\Debug\ITest.pdb
+\\hd.ad.syr.edu\01\79421f\Documents\Downloads\Prototype12\Prototype1\TestDriver1\bin\Debug\TestCode1.pdb
+\\hd.ad.syr.edu\01\79421f\Documents\Downloads\Prototype12\Prototype1\TestDriver1\obj\Debug\TestDriver1.dll
+\\hd.ad.syr.edu\01\79421f\Documents\Downloads\Prototype12\Prototype1\TestDriver1\obj\Debug\TestDriver1.pdb

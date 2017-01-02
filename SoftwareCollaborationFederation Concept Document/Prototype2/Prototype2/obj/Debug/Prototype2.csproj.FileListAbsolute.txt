@@ -1,0 +1,6 @@
+\\hd.ad.syr.edu\01\79421f\documents\visual studio 2015\Projects\Prototype2\Prototype2\bin\Debug\Prototype2.exe.config
+\\hd.ad.syr.edu\01\79421f\documents\visual studio 2015\Projects\Prototype2\Prototype2\bin\Debug\Prototype2.exe
+\\hd.ad.syr.edu\01\79421f\documents\visual studio 2015\Projects\Prototype2\Prototype2\bin\Debug\Prototype2.pdb
+\\hd.ad.syr.edu\01\79421f\documents\visual studio 2015\Projects\Prototype2\Prototype2\obj\Debug\Prototype2.csprojResolveAssemblyReference.cache
+\\hd.ad.syr.edu\01\79421f\documents\visual studio 2015\Projects\Prototype2\Prototype2\obj\Debug\Prototype2.exe
+\\hd.ad.syr.edu\01\79421f\documents\visual studio 2015\Projects\Prototype2\Prototype2\obj\Debug\Prototype2.pdb
